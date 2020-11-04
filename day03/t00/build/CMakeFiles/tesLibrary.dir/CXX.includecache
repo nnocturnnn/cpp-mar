@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t00/main.cpp
+iostream
+-
+string
+-
+templateAddition.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t00/templateAddition.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t00/templateAddition.h
+

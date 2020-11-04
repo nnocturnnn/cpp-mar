@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t02/main.cpp
+src/visitTown.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t02/src/visitTown.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t02/src/visitTown.h
+iostream
+-
+sstream
+-
+deque
+-
+numeric
+-
+

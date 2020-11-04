@@ -1,0 +1,6 @@
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t00/build/CMakeFiles/rebuild_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t00/build/CMakeFiles/edit_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t00/build/CMakeFiles/uniqueWords.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t00/build/src/CMakeFiles/rebuild_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t00/build/src/CMakeFiles/edit_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t00/build/src/CMakeFiles/SOURCE_LIB.dir

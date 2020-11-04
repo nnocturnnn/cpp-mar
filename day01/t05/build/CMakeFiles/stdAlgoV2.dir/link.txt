@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/stdAlgoV2.dir/main.cpp.o CMakeFiles/stdAlgoV2.dir/src/stdAlgoV2.cpp.o -o stdAlgoV2 

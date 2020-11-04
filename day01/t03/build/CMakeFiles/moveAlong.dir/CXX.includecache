@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t03/main.cpp
+src/vampireRabbits.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t03/src/vampireRabbits.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t03/src/vampireRabbits.cpp
+vampireRabbits.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t03/src/vampireRabbits.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t03/src/vampireRabbits.h
+iostream
+-
+string
+-
+vector
+-
+list
+-
+unistd.h
+-
+

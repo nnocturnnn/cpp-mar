@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libSOURCE_LIB.a CMakeFiles/SOURCE_LIB.dir/myFunction.cpp.o CMakeFiles/SOURCE_LIB.dir/countUniqueWords.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libSOURCE_LIB.a

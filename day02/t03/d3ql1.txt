@@ -1,0 +1,11 @@
+"CarlovacTownway" : "2920, vol 06 - Mid Year" 
+	"WaughinJarth" : "A Dance in Fire, Book VII" 
+
+ "CarlovacTownway":"2920, vol 03 - First Seed"
+ "Reven" : "Beggar"
+
+ "Aldetuile": 		"Cats of Skyrim"	
+ "Warrior" : "Reven"
+	"TorhalBjorik" : "There Be Dragons"
+ "WaughinJarth": "The Argonian Account, Book IV"	
+

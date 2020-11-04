@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day05/t03/app/main.cpp
+src/Draugr.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day05/t03/app/src/Draugr.h
+regex
+-
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day05/t03/app/src/Draugr.h
+iostream
+-
+vector
+-
+string
+-
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t03/app/main.cpp
+iostream
+-
+string
+-
+map
+-
+vector
+-
+src/calculate.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t03/app/src/calculate.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t03/app/src/calculate.h
+containeVariable.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t03/app/src/containeVariable.h
+iostream
+-
+map
+-
+regex
+-
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t03/app/src/containeVariable.h
+iostream
+-
+map
+-
+sstream
+-
+

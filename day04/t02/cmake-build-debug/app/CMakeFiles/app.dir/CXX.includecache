@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t02/app/main.cpp
+iostream
+-
+src/Dragonborn.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t02/app/src/Dragonborn.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t02/app/src/Dragonborn.h
+iostream
+-
+map
+-
+

@@ -1,0 +1,8 @@
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t01/build/CMakeFiles/rebuild_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t01/build/CMakeFiles/edit_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t01/build/app/CMakeFiles/rebuild_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t01/build/app/CMakeFiles/edit_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t01/build/app/CMakeFiles/app.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t01/build/app/src/CMakeFiles/rebuild_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t01/build/app/src/CMakeFiles/edit_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day04/t01/build/app/src/CMakeFiles/src.dir

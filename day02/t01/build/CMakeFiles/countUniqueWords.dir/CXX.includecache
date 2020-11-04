@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t01/main.cpp
+src/countUniqueWords.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t01/src/countUniqueWords.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t01/src/countUniqueWords.h
+myFunction.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t01/src/myFunction.h
+iostream
+-
+string
+-
+vector
+-
+set
+-
+fstream
+-
+ostream
+-
+sstream
+-
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day02/t01/src/myFunction.h
+string
+-
+fstream
+-
+sstream
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t06/isPalindrome.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t06/main.cpp
+isPalindrome.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t06/isPalindrome.h
+iostream
+-
+vector
+-
+string
+-
+

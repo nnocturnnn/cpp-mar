@@ -1,0 +1,3 @@
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t01/cmake-build-debug/CMakeFiles/tesLibrary.dir

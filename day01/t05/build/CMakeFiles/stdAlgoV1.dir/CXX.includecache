@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t05/main.cpp
+src/stdAlgoV2.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t05/src/stdAlgoV2.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t05/src/stdAlgoV2.cpp
+stdAlgoV2.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t05/src/stdAlgoV2.h
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day01/t05/src/stdAlgoV2.h
+iostream
+-
+string
+-
+vector
+-
+forward_list
+-
+fstream
+-
+sstream
+-
+

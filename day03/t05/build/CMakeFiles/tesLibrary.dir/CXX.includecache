@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t05/main.cpp
+squareValue.h
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t05/squareValue.h
+iostream
+-
+vector
+-
+
+/Users/mmasniy/Desktop/Maraphon-CPP-Ucode/day03/t05/squareValue.h
+iostream
+-
+iterator
+-
+
